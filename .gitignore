@@ -1,0 +1,12 @@
+.*
+
+!.gitignore
+
+lab5/.*
+lab5/Debug
+lab5/Drivers
+lab5/*.ld
+lab5/*.launch
+lab5/Core/Startup
+
+lab5_with good precision
